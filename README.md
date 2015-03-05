@@ -9,8 +9,8 @@ activitylabels - Creates activity labels to be used in the sensordatameanstd to 
 
 featurelabels - get the features labels from the features.txt
 
-1 - merge the training and test datasets 
-2 - extract measurements on the mean and standard deviation
-3 - name the activities in the dataset (uses activitylabels)
-4 - label the dataset with the descriptive names (uses addSuffix)
-5 - create a tidy dataset with the average of each variable for each activity and each subject. 
+1. merge the training and test datasets 
+2. extract measurements on the mean and standard deviation
+3. name the activities in the dataset (uses activitylabels)
+4. label the dataset with the descriptive names (uses addSuffix)
+5. create a tidy dataset with the average of each variable for each activity and each subject. 
